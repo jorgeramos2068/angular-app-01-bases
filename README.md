@@ -1,5 +1,7 @@
 # Bases
 
+Sample application that shows the basic concepts of Angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
 ## Development server
